@@ -1,0 +1,31 @@
+동영상 주소 목록
+
+1. 아나콘다 개발환경 설치 
+       => https://common.jejunu.ac.kr/em/606259391d7c3
+
+2.Open API 기반 데이터 수집
+
+  - Open API 활용 신청 
+       => https://common.jejunu.ac.kr/em/606649d03fa1d
+  - 네이버 Open API 데이터 수집 
+       => https://common.jejunu.ac.kr/em/6066e41c28552
+  - 공공데이터포털 Open API 데이터 수집 
+       => https://common.jejunu.ac.kr/em/6067a37865c26
+
+3. 웹 사이트의 데이터 수집
+
+  - 웹크롤링 준비 
+        => https://common.jejunu.ac.kr/em/606986092c678
+  - 정적 웹크롤링
+      => https://common.jejunu.ac.kr/em/606a420b78d90
+  - 동적 웹크롤링
+      => https://common.jejunu.ac.kr/em/606b993b35a08
+   
+4. 텍스트 데이터 분석
+
+  - 텍스트데이터 수집
+        => https://common.jejunu.ac.kr/em/6083869c5307e
+  - 영문텍스트 분석
+      => https://common.jejunu.ac.kr/em/6083948955120
+  - 한글텍스트 분석
+      => https://common.jejunu.ac.kr/em/6085f26e49186
