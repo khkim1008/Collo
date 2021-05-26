@@ -1,0 +1,64 @@
+▶ 특강 진행 순서
+
+1. 깃허브 자료 다운로드 
+2. 파이썬 프로그램 실행
+   - ‘월드컵’ 관련 데이터 수집 프로그램
+   - 영문텍스트 분석 프로그램
+   - 한글텍스트 분석 프로그램
+   - ‘월드컵’ 관련 텍스트 데이터 분석
+3. 실습
+   - 아나콘다 설치
+   - KoNLPY 설치 
+   - 프로그램 실행
+4. 과제 출제
+   - 동영상 시청 (1.4 ~ 1.6 배속으로 들으면 효율적)
+   - open API기반 네이버 데이터 수집 후, 워드클라우드 분석
+
+
+
+▶ 동영상 주소 목록
+
+1. 아나콘다 개발환경 설치 
+       => https://common.jejunu.ac.kr/em/606259391d7c3
+
+2.Open API 기반 데이터 수집
+
+  - Open API 활용 신청 
+       => https://common.jejunu.ac.kr/em/606649d03fa1d
+  - 네이버 Open API 데이터 수집 
+       => https://common.jejunu.ac.kr/em/6066e41c28552
+  - 공공데이터포털 Open API 데이터 수집 
+       => https://common.jejunu.ac.kr/em/6067a37865c26
+
+3. 웹 사이트의 데이터 수집
+
+  - 웹크롤링 준비 
+        => https://common.jejunu.ac.kr/em/606986092c678
+  - 정적 웹크롤링
+      => https://common.jejunu.ac.kr/em/606a420b78d90
+  - 동적 웹크롤링
+      => https://common.jejunu.ac.kr/em/606b993b35a08
+   
+4. 텍스트 데이터 분석
+
+  - 텍스트데이터 수집
+        => https://common.jejunu.ac.kr/em/6083869c5307e
+  - 영문텍스트 분석
+      => https://common.jejunu.ac.kr/em/6083948955120
+  - 한글텍스트 분석
+      => https://common.jejunu.ac.kr/em/60873d642761d
+
+
+
+5. 파이썬 문법 특강 
+  - 변수와 자료형1
+     => https://common.jejunu.ac.kr/em/60513292629af
+  - 변수와 자료형2
+     => https://common.jejunu.ac.kr/em/605179f12b763
+ - 함수 및 모듈
+     => https://common.jejunu.ac.kr/em/605c3cd889526
+ - 화일처리
+     => https://common.jejunu.ac.kr/em/605c47b272624
+ - 주요라이브러리
+     => https://common.jejunu.ac.kr/em/605c5d4e37f1a
+
